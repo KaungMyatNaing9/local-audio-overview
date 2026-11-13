@@ -1,0 +1,31 @@
+{
+  "title": "The Paper Boat Workshop on Warder Street",
+  "duration_ms": 103947,
+  "chapters": [
+    {
+      "title": "The room",
+      "start_ms": 0,
+      "end_ms": 17327
+    },
+    {
+      "title": "The class",
+      "start_ms": 17977,
+      "end_ms": 51121
+    },
+    {
+      "title": "The basin",
+      "start_ms": 51771,
+      "end_ms": 69867
+    },
+    {
+      "title": "The ledger",
+      "start_ms": 70517,
+      "end_ms": 80676
+    },
+    {
+      "title": "The kit",
+      "start_ms": 81326,
+      "end_ms": 103947
+    }
+  ]
+}

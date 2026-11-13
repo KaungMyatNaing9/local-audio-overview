@@ -1,0 +1,15 @@
+{
+  "method": "lexical",
+  "checked": [
+    "numbers",
+    "quotations",
+    "proper_names"
+  ],
+  "not_checked": "A line with no number, quotation, or proper name is not flagged, so a paraphrase can still add a claim this check will miss. A name that is only the first word of a sentence is also not flagged.",
+  "backend": "fake",
+  "repaired": false,
+  "line_count": 12,
+  "flag_count": 0,
+  "flagged_lines": 0,
+  "flags": []
+}
